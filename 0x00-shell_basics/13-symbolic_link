@@ -1,3 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls __ls__
-a symbolic link to /bin/ls, named __ls__
+ls -s /bin/ls __ls__
