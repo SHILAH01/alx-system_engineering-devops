@@ -1,2 +1,3 @@
 #!/bin/bash
-ln -s /bin/ls __is__
+ln -s /bin/ls __ls__
+a symbolic link to /bin/ls, named __ls__
