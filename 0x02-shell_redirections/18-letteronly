@@ -1,2 +1,2 @@
 #!/bin/bash
-grep '^[[:upper:]]^[[:lower:]]' /etc/ssd_confiq
+grep -v  '^[[:alpha:]]' /etc/ssh/sshd_config
